@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/Views/Customer/TestIndex.cshtml"  
+  status = TestIndex
