@@ -1,0 +1,541 @@
+F:\Invoice\WebUI\bin\roslyn\csc.exe
+F:\Invoice\WebUI\bin\roslyn\csc.exe.config
+F:\Invoice\WebUI\bin\roslyn\csc.rsp
+F:\Invoice\WebUI\bin\roslyn\csi.exe
+F:\Invoice\WebUI\bin\roslyn\csi.rsp
+F:\Invoice\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Invoice\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Invoice\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Invoice\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Invoice\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Invoice\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Invoice\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Invoice\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Invoice\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Invoice\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Invoice\WebUI\bin\roslyn\System.AppContext.dll
+F:\Invoice\WebUI\bin\roslyn\System.Collections.Immutable.dll
+F:\Invoice\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Invoice\WebUI\bin\roslyn\System.IO.FileSystem.dll
+F:\Invoice\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Invoice\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Invoice\WebUI\bin\roslyn\vbc.exe
+F:\Invoice\WebUI\bin\roslyn\vbc.exe.config
+F:\Invoice\WebUI\bin\roslyn\vbc.rsp
+F:\Invoice\WebUI\bin\roslyn\VBCSCompiler.exe
+F:\Invoice\WebUI\bin\roslyn\VBCSCompiler.exe.config
+F:\Invoice\WebUI\bin\Inv.WebUI.dll.config
+F:\Invoice\WebUI\bin\Inv.WebUI.dll
+F:\Invoice\WebUI\bin\Inv.WebUI.pdb
+F:\Invoice\WebUI\bin\ar\Inv.WebUI.resources.dll
+F:\Invoice\WebUI\bin\Antlr3.Runtime.dll
+F:\Invoice\WebUI\bin\EntityFramework.dll
+F:\Invoice\WebUI\bin\EntityFramework.SqlServer.dll
+F:\Invoice\WebUI\bin\Inv.API.dll
+F:\Invoice\WebUI\bin\Inv.DAL.dll
+F:\Invoice\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Invoice\WebUI\bin\Microsoft.ReportViewer.Common.dll
+F:\Invoice\WebUI\bin\Microsoft.ReportViewer.WebForms.dll
+F:\Invoice\WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\Invoice\WebUI\bin\Newtonsoft.Json.dll
+F:\Invoice\WebUI\bin\OnBarcode.Barcode.WinForms.dll
+F:\Invoice\WebUI\bin\QRCoder.dll
+F:\Invoice\WebUI\bin\Security.dll
+F:\Invoice\WebUI\bin\Spire.Barcode.dll
+F:\Invoice\WebUI\bin\Spire.Common.dll
+F:\Invoice\WebUI\bin\Spire.DataExport.dll
+F:\Invoice\WebUI\bin\Spire.DataExport.ResourceMgr.dll
+F:\Invoice\WebUI\bin\Spire.Doc.dll
+F:\Invoice\WebUI\bin\Spire.DocViewer.Forms.dll
+F:\Invoice\WebUI\bin\Spire.License.dll
+F:\Invoice\WebUI\bin\Spire.Pdf.dll
+F:\Invoice\WebUI\bin\Spire.PdfViewer.Forms.dll
+F:\Invoice\WebUI\bin\Spire.Presentation.dll
+F:\Invoice\WebUI\bin\Spire.XLS.dll
+F:\Invoice\WebUI\bin\System.Web.Helpers.dll
+F:\Invoice\WebUI\bin\System.Web.Mvc.dll
+F:\Invoice\WebUI\bin\System.Web.Optimization.dll
+F:\Invoice\WebUI\bin\System.Web.Razor.dll
+F:\Invoice\WebUI\bin\System.Web.WebPages.Deployment.dll
+F:\Invoice\WebUI\bin\System.Web.WebPages.dll
+F:\Invoice\WebUI\bin\System.Web.WebPages.Razor.dll
+F:\Invoice\WebUI\bin\WebGrease.dll
+F:\Invoice\WebUI\bin\WebActivatorEx.dll
+F:\Invoice\WebUI\bin\Unity.Abstractions.dll
+F:\Invoice\WebUI\bin\Unity.Container.dll
+F:\Invoice\WebUI\bin\Unity.AspNet.WebApi.dll
+F:\Invoice\WebUI\bin\System.Web.Http.dll
+F:\Invoice\WebUI\bin\System.Web.Http.Cors.dll
+F:\Invoice\WebUI\bin\Inv.BLL.dll
+F:\Invoice\WebUI\bin\System.Web.Http.WebHost.dll
+F:\Invoice\WebUI\bin\System.Net.Http.Formatting.dll
+F:\Invoice\WebUI\bin\Microsoft.mshtml.dll
+F:\Invoice\WebUI\bin\System.ValueTuple.dll
+F:\Invoice\WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Invoice\WebUI\bin\System.Web.Cors.dll
+F:\Invoice\WebUI\bin\Inv.API.pdb
+F:\Invoice\WebUI\bin\Inv.API.dll.config
+F:\Invoice\WebUI\bin\Inv.DAL.pdb
+F:\Invoice\WebUI\bin\Inv.DAL.dll.config
+F:\Invoice\WebUI\bin\Antlr3.Runtime.pdb
+F:\Invoice\WebUI\bin\EntityFramework.xml
+F:\Invoice\WebUI\bin\EntityFramework.SqlServer.xml
+F:\Invoice\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Invoice\WebUI\bin\Newtonsoft.Json.xml
+F:\Invoice\WebUI\bin\Spire.Barcode.xml
+F:\Invoice\WebUI\bin\Spire.Common.xml
+F:\Invoice\WebUI\bin\Spire.DataExport.xml
+F:\Invoice\WebUI\bin\Spire.DataExport.ResourceMgr.xml
+F:\Invoice\WebUI\bin\Spire.Doc.xml
+F:\Invoice\WebUI\bin\Spire.DocViewer.Forms.xml
+F:\Invoice\WebUI\bin\Spire.License.xml
+F:\Invoice\WebUI\bin\Spire.Pdf.xml
+F:\Invoice\WebUI\bin\Spire.PdfViewer.Forms.xml
+F:\Invoice\WebUI\bin\Spire.Presentation.xml
+F:\Invoice\WebUI\bin\Spire.XLS.xml
+F:\Invoice\WebUI\bin\System.Web.Helpers.xml
+F:\Invoice\WebUI\bin\System.Web.Mvc.xml
+F:\Invoice\WebUI\bin\System.Web.Optimization.xml
+F:\Invoice\WebUI\bin\System.Web.Razor.xml
+F:\Invoice\WebUI\bin\System.Web.WebPages.xml
+F:\Invoice\WebUI\bin\System.Web.WebPages.Deployment.xml
+F:\Invoice\WebUI\bin\System.Web.WebPages.Razor.xml
+F:\Invoice\WebUI\bin\Inv.BLL.pdb
+F:\Invoice\WebUI\obj\Debug\Inv.WebUI.csprojAssemblyReference.cache
+F:\Invoice\WebUI\obj\Debug\Inv.WebUI.Resources.SystemResource.resources
+F:\Invoice\WebUI\obj\Debug\Inv.WebUI.Resources.SystemResource.ar.resources
+F:\Invoice\WebUI\obj\Debug\Inv.WebUI.csproj.GenerateResource.cache
+F:\Invoice\WebUI\obj\Debug\Inv.WebUI.csproj.CoreCompileInputs.cache
+F:\Invoice\WebUI\obj\Debug\ar\Inv.WebUI.resources.dll
+F:\Invoice\WebUI\obj\Debug\Inv.WebUI.csproj.CopyComplete
+F:\Invoice\WebUI\obj\Debug\Inv.WebUI.dll
+F:\Invoice\WebUI\obj\Debug\Inv.WebUI.pdb
+F:\Invoice\WebUI\bin\Unity.Abstractions.pdb
+F:\Invoice\WebUI\bin\Unity.Container.pdb
+F:\Invoice\WebUI\bin\Unity.AspNet.WebApi.pdb
+F:\Invoice\WebUI\bin\System.Web.Http.xml
+F:\Invoice\WebUI\bin\System.Web.Http.Cors.xml
+F:\Invoice\WebUI\bin\System.Web.Http.WebHost.xml
+F:\Invoice\WebUI\bin\System.Net.Http.Formatting.xml
+F:\Invoice\WebUI\bin\System.ValueTuple.xml
+F:\Invoice\WebUI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\csc.exe
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\csc.exe.config
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\csc.rsp
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\csi.exe
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\csi.rsp
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\System.AppContext.dll
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\System.Collections.Immutable.dll
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\System.IO.FileSystem.dll
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\vbc.exe
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\vbc.exe.config
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\vbc.rsp
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\VBCSCompiler.exe
+F:\New folder (3)\Invoice\WebUI\bin\roslyn\VBCSCompiler.exe.config
+F:\New folder (3)\Invoice\WebUI\bin\Inv.WebUI.dll.config
+F:\New folder (3)\Invoice\WebUI\bin\Inv.WebUI.dll
+F:\New folder (3)\Invoice\WebUI\bin\Inv.WebUI.pdb
+F:\New folder (3)\Invoice\WebUI\bin\ar\Inv.WebUI.resources.dll
+F:\New folder (3)\Invoice\WebUI\bin\Antlr3.Runtime.dll
+F:\New folder (3)\Invoice\WebUI\bin\EntityFramework.dll
+F:\New folder (3)\Invoice\WebUI\bin\EntityFramework.SqlServer.dll
+F:\New folder (3)\Invoice\WebUI\bin\Inv.API.dll
+F:\New folder (3)\Invoice\WebUI\bin\Inv.DAL.dll
+F:\New folder (3)\Invoice\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\New folder (3)\Invoice\WebUI\bin\Microsoft.ReportViewer.Common.dll
+F:\New folder (3)\Invoice\WebUI\bin\Microsoft.ReportViewer.WebForms.dll
+F:\New folder (3)\Invoice\WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\New folder (3)\Invoice\WebUI\bin\Newtonsoft.Json.dll
+F:\New folder (3)\Invoice\WebUI\bin\OnBarcode.Barcode.WinForms.dll
+F:\New folder (3)\Invoice\WebUI\bin\QRCoder.dll
+F:\New folder (3)\Invoice\WebUI\bin\Security.dll
+F:\New folder (3)\Invoice\WebUI\bin\Spire.Barcode.dll
+F:\New folder (3)\Invoice\WebUI\bin\Spire.Common.dll
+F:\New folder (3)\Invoice\WebUI\bin\Spire.DataExport.dll
+F:\New folder (3)\Invoice\WebUI\bin\Spire.DataExport.ResourceMgr.dll
+F:\New folder (3)\Invoice\WebUI\bin\Spire.Doc.dll
+F:\New folder (3)\Invoice\WebUI\bin\Spire.DocViewer.Forms.dll
+F:\New folder (3)\Invoice\WebUI\bin\Spire.License.dll
+F:\New folder (3)\Invoice\WebUI\bin\Spire.Pdf.dll
+F:\New folder (3)\Invoice\WebUI\bin\Spire.PdfViewer.Forms.dll
+F:\New folder (3)\Invoice\WebUI\bin\Spire.Presentation.dll
+F:\New folder (3)\Invoice\WebUI\bin\Spire.XLS.dll
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.Helpers.dll
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.Mvc.dll
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.Optimization.dll
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.Razor.dll
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.WebPages.Deployment.dll
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.WebPages.dll
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.WebPages.Razor.dll
+F:\New folder (3)\Invoice\WebUI\bin\WebGrease.dll
+F:\New folder (3)\Invoice\WebUI\bin\WebActivatorEx.dll
+F:\New folder (3)\Invoice\WebUI\bin\Unity.Abstractions.dll
+F:\New folder (3)\Invoice\WebUI\bin\Unity.Container.dll
+F:\New folder (3)\Invoice\WebUI\bin\Unity.AspNet.WebApi.dll
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.Http.dll
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.Http.Cors.dll
+F:\New folder (3)\Invoice\WebUI\bin\Inv.BLL.dll
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.Http.WebHost.dll
+F:\New folder (3)\Invoice\WebUI\bin\System.Net.Http.Formatting.dll
+F:\New folder (3)\Invoice\WebUI\bin\Microsoft.mshtml.dll
+F:\New folder (3)\Invoice\WebUI\bin\System.ValueTuple.dll
+F:\New folder (3)\Invoice\WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.Cors.dll
+F:\New folder (3)\Invoice\WebUI\bin\Inv.API.pdb
+F:\New folder (3)\Invoice\WebUI\bin\Inv.API.dll.config
+F:\New folder (3)\Invoice\WebUI\bin\Inv.DAL.pdb
+F:\New folder (3)\Invoice\WebUI\bin\Inv.DAL.dll.config
+F:\New folder (3)\Invoice\WebUI\bin\Antlr3.Runtime.pdb
+F:\New folder (3)\Invoice\WebUI\bin\EntityFramework.xml
+F:\New folder (3)\Invoice\WebUI\bin\EntityFramework.SqlServer.xml
+F:\New folder (3)\Invoice\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\New folder (3)\Invoice\WebUI\bin\Newtonsoft.Json.xml
+F:\New folder (3)\Invoice\WebUI\bin\Spire.Barcode.xml
+F:\New folder (3)\Invoice\WebUI\bin\Spire.Common.xml
+F:\New folder (3)\Invoice\WebUI\bin\Spire.DataExport.xml
+F:\New folder (3)\Invoice\WebUI\bin\Spire.DataExport.ResourceMgr.xml
+F:\New folder (3)\Invoice\WebUI\bin\Spire.Doc.xml
+F:\New folder (3)\Invoice\WebUI\bin\Spire.DocViewer.Forms.xml
+F:\New folder (3)\Invoice\WebUI\bin\Spire.License.xml
+F:\New folder (3)\Invoice\WebUI\bin\Spire.Pdf.xml
+F:\New folder (3)\Invoice\WebUI\bin\Spire.PdfViewer.Forms.xml
+F:\New folder (3)\Invoice\WebUI\bin\Spire.Presentation.xml
+F:\New folder (3)\Invoice\WebUI\bin\Spire.XLS.xml
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.Helpers.xml
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.Mvc.xml
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.Optimization.xml
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.Razor.xml
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.WebPages.xml
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.WebPages.Deployment.xml
+F:\New folder (3)\Invoice\WebUI\bin\System.Web.WebPages.Razor.xml
+F:\New folder (3)\Invoice\WebUI\bin\Inv.BLL.pdb
+F:\New folder (3)\Invoice\WebUI\obj\Debug\Inv.WebUI.csproj.AssemblyReference.cache
+F:\New folder (3)\Invoice\WebUI\obj\Debug\Inv.WebUI.Resources.SystemResource.resources
+F:\New folder (3)\Invoice\WebUI\obj\Debug\Inv.WebUI.Resources.SystemResource.ar.resources
+F:\New folder (3)\Invoice\WebUI\obj\Debug\Inv.WebUI.csproj.GenerateResource.cache
+F:\New folder (3)\Invoice\WebUI\obj\Debug\Inv.WebUI.csproj.CoreCompileInputs.cache
+F:\New folder (3)\Invoice\WebUI\obj\Debug\ar\Inv.WebUI.resources.dll
+F:\New folder (3)\Invoice\WebUI\obj\Debug\Inv.WebUI.csproj.CopyComplete
+F:\New folder (3)\Invoice\WebUI\obj\Debug\Inv.WebUI.dll
+F:\New folder (3)\Invoice\WebUI\obj\Debug\Inv.WebUI.pdb
+F:\Invoice2022\WebUI\bin\roslyn\csc.exe
+F:\Invoice2022\WebUI\bin\roslyn\csc.exe.config
+F:\Invoice2022\WebUI\bin\roslyn\csc.rsp
+F:\Invoice2022\WebUI\bin\roslyn\csi.exe
+F:\Invoice2022\WebUI\bin\roslyn\csi.rsp
+F:\Invoice2022\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Invoice2022\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Invoice2022\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Invoice2022\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Invoice2022\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Invoice2022\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Invoice2022\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Invoice2022\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Invoice2022\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Invoice2022\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Invoice2022\WebUI\bin\roslyn\System.AppContext.dll
+F:\Invoice2022\WebUI\bin\roslyn\System.Collections.Immutable.dll
+F:\Invoice2022\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Invoice2022\WebUI\bin\roslyn\System.IO.FileSystem.dll
+F:\Invoice2022\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Invoice2022\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Invoice2022\WebUI\bin\roslyn\vbc.exe
+F:\Invoice2022\WebUI\bin\roslyn\vbc.exe.config
+F:\Invoice2022\WebUI\bin\roslyn\vbc.rsp
+F:\Invoice2022\WebUI\bin\roslyn\VBCSCompiler.exe
+F:\Invoice2022\WebUI\bin\roslyn\VBCSCompiler.exe.config
+F:\Invoice2022\WebUI\bin\Inv.WebUI.dll.config
+F:\Invoice2022\WebUI\bin\Inv.WebUI.dll
+F:\Invoice2022\WebUI\bin\Inv.WebUI.pdb
+F:\Invoice2022\WebUI\bin\ar\Inv.WebUI.resources.dll
+F:\Invoice2022\WebUI\bin\Antlr3.Runtime.dll
+F:\Invoice2022\WebUI\bin\EntityFramework.dll
+F:\Invoice2022\WebUI\bin\EntityFramework.SqlServer.dll
+F:\Invoice2022\WebUI\bin\Inv.API.dll
+F:\Invoice2022\WebUI\bin\Inv.DAL.dll
+F:\Invoice2022\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Invoice2022\WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\Invoice2022\WebUI\bin\Newtonsoft.Json.dll
+F:\Invoice2022\WebUI\bin\QRCoder.dll
+F:\Invoice2022\WebUI\bin\Spire.Barcode.dll
+F:\Invoice2022\WebUI\bin\Spire.Common.dll
+F:\Invoice2022\WebUI\bin\Spire.DataExport.dll
+F:\Invoice2022\WebUI\bin\Spire.DataExport.ResourceMgr.dll
+F:\Invoice2022\WebUI\bin\Spire.Doc.dll
+F:\Invoice2022\WebUI\bin\Spire.DocViewer.Forms.dll
+F:\Invoice2022\WebUI\bin\Spire.License.dll
+F:\Invoice2022\WebUI\bin\Spire.Pdf.dll
+F:\Invoice2022\WebUI\bin\Spire.PdfViewer.Forms.dll
+F:\Invoice2022\WebUI\bin\Spire.Presentation.dll
+F:\Invoice2022\WebUI\bin\Spire.XLS.dll
+F:\Invoice2022\WebUI\bin\System.Web.Helpers.dll
+F:\Invoice2022\WebUI\bin\System.Web.Mvc.dll
+F:\Invoice2022\WebUI\bin\System.Web.Optimization.dll
+F:\Invoice2022\WebUI\bin\System.Web.Razor.dll
+F:\Invoice2022\WebUI\bin\System.Web.WebPages.Deployment.dll
+F:\Invoice2022\WebUI\bin\System.Web.WebPages.dll
+F:\Invoice2022\WebUI\bin\System.Web.WebPages.Razor.dll
+F:\Invoice2022\WebUI\bin\WebGrease.dll
+F:\Invoice2022\WebUI\bin\WebActivatorEx.dll
+F:\Invoice2022\WebUI\bin\Unity.Abstractions.dll
+F:\Invoice2022\WebUI\bin\Unity.Container.dll
+F:\Invoice2022\WebUI\bin\Unity.AspNet.WebApi.dll
+F:\Invoice2022\WebUI\bin\System.Web.Http.dll
+F:\Invoice2022\WebUI\bin\System.Web.Http.Cors.dll
+F:\Invoice2022\WebUI\bin\Inv.BLL.dll
+F:\Invoice2022\WebUI\bin\System.Web.Http.WebHost.dll
+F:\Invoice2022\WebUI\bin\System.Net.Http.Formatting.dll
+F:\Invoice2022\WebUI\bin\Microsoft.mshtml.dll
+F:\Invoice2022\WebUI\bin\System.ValueTuple.dll
+F:\Invoice2022\WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Invoice2022\WebUI\bin\System.Web.Cors.dll
+F:\Invoice2022\WebUI\bin\Inv.API.pdb
+F:\Invoice2022\WebUI\bin\Inv.API.dll.config
+F:\Invoice2022\WebUI\bin\Inv.DAL.pdb
+F:\Invoice2022\WebUI\bin\Inv.DAL.dll.config
+F:\Invoice2022\WebUI\bin\Antlr3.Runtime.pdb
+F:\Invoice2022\WebUI\bin\EntityFramework.xml
+F:\Invoice2022\WebUI\bin\EntityFramework.SqlServer.xml
+F:\Invoice2022\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Invoice2022\WebUI\bin\Newtonsoft.Json.xml
+F:\Invoice2022\WebUI\bin\Spire.Barcode.xml
+F:\Invoice2022\WebUI\bin\Spire.Common.xml
+F:\Invoice2022\WebUI\bin\Spire.DataExport.xml
+F:\Invoice2022\WebUI\bin\Spire.DataExport.ResourceMgr.xml
+F:\Invoice2022\WebUI\bin\Spire.Doc.xml
+F:\Invoice2022\WebUI\bin\Spire.DocViewer.Forms.xml
+F:\Invoice2022\WebUI\bin\Spire.License.xml
+F:\Invoice2022\WebUI\bin\Spire.Pdf.xml
+F:\Invoice2022\WebUI\bin\Spire.PdfViewer.Forms.xml
+F:\Invoice2022\WebUI\bin\Spire.Presentation.xml
+F:\Invoice2022\WebUI\bin\Spire.XLS.xml
+F:\Invoice2022\WebUI\bin\System.Web.Helpers.xml
+F:\Invoice2022\WebUI\bin\System.Web.Mvc.xml
+F:\Invoice2022\WebUI\bin\System.Web.Optimization.xml
+F:\Invoice2022\WebUI\bin\System.Web.Razor.xml
+F:\Invoice2022\WebUI\bin\System.Web.WebPages.xml
+F:\Invoice2022\WebUI\bin\System.Web.WebPages.Deployment.xml
+F:\Invoice2022\WebUI\bin\System.Web.WebPages.Razor.xml
+F:\Invoice2022\WebUI\bin\Inv.BLL.pdb
+F:\Invoice2022\WebUI\obj\Debug\Inv.WebUI.Resources.SystemResource.resources
+F:\Invoice2022\WebUI\obj\Debug\Inv.WebUI.Resources.SystemResource.ar.resources
+F:\Invoice2022\WebUI\obj\Debug\Inv.WebUI.csproj.GenerateResource.cache
+F:\Invoice2022\WebUI\obj\Debug\ar\Inv.WebUI.resources.dll
+F:\Invoice2022\WebUI\obj\Debug\Inv.WebUI.dll
+F:\Invoice2022\WebUI\obj\Debug\Inv.WebUI.pdb
+F:\Invoice2022\WebUI\obj\Debug\Inv.WebUI.csproj.AssemblyReference.cache
+F:\Invoice2022\WebUI\obj\Debug\Inv.WebUI.csproj.CoreCompileInputs.cache
+F:\Invoice2022\WebUI\obj\Debug\Inv.WebUI.csproj.CopyComplete
+F:\Stitch\WebUI\bin\roslyn\csc.exe
+F:\Stitch\WebUI\bin\roslyn\csc.exe.config
+F:\Stitch\WebUI\bin\roslyn\csc.rsp
+F:\Stitch\WebUI\bin\roslyn\csi.exe
+F:\Stitch\WebUI\bin\roslyn\csi.rsp
+F:\Stitch\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Stitch\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Stitch\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Stitch\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Stitch\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Stitch\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Stitch\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Stitch\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Stitch\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Stitch\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Stitch\WebUI\bin\roslyn\System.AppContext.dll
+F:\Stitch\WebUI\bin\roslyn\System.Collections.Immutable.dll
+F:\Stitch\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Stitch\WebUI\bin\roslyn\System.IO.FileSystem.dll
+F:\Stitch\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Stitch\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Stitch\WebUI\bin\roslyn\vbc.exe
+F:\Stitch\WebUI\bin\roslyn\vbc.exe.config
+F:\Stitch\WebUI\bin\roslyn\vbc.rsp
+F:\Stitch\WebUI\bin\roslyn\VBCSCompiler.exe
+F:\Stitch\WebUI\bin\roslyn\VBCSCompiler.exe.config
+F:\Stitch\WebUI\bin\Inv.WebUI.dll.config
+F:\Stitch\WebUI\bin\Inv.WebUI.dll
+F:\Stitch\WebUI\bin\Inv.WebUI.pdb
+F:\Stitch\WebUI\bin\Antlr3.Runtime.dll
+F:\Stitch\WebUI\bin\EntityFramework.dll
+F:\Stitch\WebUI\bin\EntityFramework.SqlServer.dll
+F:\Stitch\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Stitch\WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\Stitch\WebUI\bin\Newtonsoft.Json.dll
+F:\Stitch\WebUI\bin\QRCoder.dll
+F:\Stitch\WebUI\bin\Spire.Barcode.dll
+F:\Stitch\WebUI\bin\Spire.Common.dll
+F:\Stitch\WebUI\bin\Spire.DataExport.dll
+F:\Stitch\WebUI\bin\Spire.DataExport.ResourceMgr.dll
+F:\Stitch\WebUI\bin\Spire.Doc.dll
+F:\Stitch\WebUI\bin\Spire.DocViewer.Forms.dll
+F:\Stitch\WebUI\bin\Spire.License.dll
+F:\Stitch\WebUI\bin\Spire.Pdf.dll
+F:\Stitch\WebUI\bin\Spire.PdfViewer.Forms.dll
+F:\Stitch\WebUI\bin\Spire.Presentation.dll
+F:\Stitch\WebUI\bin\Spire.XLS.dll
+F:\Stitch\WebUI\bin\System.Web.Helpers.dll
+F:\Stitch\WebUI\bin\System.Web.Mvc.dll
+F:\Stitch\WebUI\bin\System.Web.Optimization.dll
+F:\Stitch\WebUI\bin\System.Web.Razor.dll
+F:\Stitch\WebUI\bin\System.Web.WebPages.Deployment.dll
+F:\Stitch\WebUI\bin\System.Web.WebPages.dll
+F:\Stitch\WebUI\bin\System.Web.WebPages.Razor.dll
+F:\Stitch\WebUI\bin\WebGrease.dll
+F:\Stitch\WebUI\bin\Microsoft.mshtml.dll
+F:\Stitch\WebUI\bin\Antlr3.Runtime.pdb
+F:\Stitch\WebUI\bin\EntityFramework.xml
+F:\Stitch\WebUI\bin\EntityFramework.SqlServer.xml
+F:\Stitch\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Stitch\WebUI\bin\Newtonsoft.Json.xml
+F:\Stitch\WebUI\bin\Spire.Barcode.xml
+F:\Stitch\WebUI\bin\Spire.Common.xml
+F:\Stitch\WebUI\bin\Spire.DataExport.xml
+F:\Stitch\WebUI\bin\Spire.DataExport.ResourceMgr.xml
+F:\Stitch\WebUI\bin\Spire.Doc.xml
+F:\Stitch\WebUI\bin\Spire.DocViewer.Forms.xml
+F:\Stitch\WebUI\bin\Spire.License.xml
+F:\Stitch\WebUI\bin\Spire.Pdf.xml
+F:\Stitch\WebUI\bin\Spire.PdfViewer.Forms.xml
+F:\Stitch\WebUI\bin\Spire.Presentation.xml
+F:\Stitch\WebUI\bin\Spire.XLS.xml
+F:\Stitch\WebUI\bin\System.Web.Helpers.xml
+F:\Stitch\WebUI\bin\System.Web.Mvc.xml
+F:\Stitch\WebUI\bin\System.Web.Optimization.xml
+F:\Stitch\WebUI\bin\System.Web.Razor.xml
+F:\Stitch\WebUI\bin\System.Web.WebPages.xml
+F:\Stitch\WebUI\bin\System.Web.WebPages.Deployment.xml
+F:\Stitch\WebUI\bin\System.Web.WebPages.Razor.xml
+F:\Stitch\WebUI\obj\Debug\Inv.WebUI.csproj.AssemblyReference.cache
+F:\Stitch\WebUI\obj\Debug\Inv.WebUI.csproj.CoreCompileInputs.cache
+F:\Stitch\WebUI\obj\Debug\Inv.WebUI.csproj.CopyComplete
+F:\Stitch\WebUI\obj\Debug\Inv.WebUI.dll
+F:\Stitch\WebUI\obj\Debug\Inv.WebUI.pdb
+F:\Stitch\WebUI\bin\BouncyCastle.Crypto.dll
+F:\Stitch\WebUI\bin\ICSharpCode.SharpZipLib.dll
+F:\Stitch\WebUI\bin\NPOI.dll
+F:\Stitch\WebUI\bin\NPOI.OOXML.dll
+F:\Stitch\WebUI\bin\NPOI.OpenXml4Net.dll
+F:\Stitch\WebUI\bin\NPOI.OpenXmlFormats.dll
+F:\Stitch\WebUI\bin\BouncyCastle.Crypto.xml
+F:\Stitch\WebUI\bin\ICSharpCode.SharpZipLib.pdb
+F:\Stitch\WebUI\bin\ICSharpCode.SharpZipLib.xml
+F:\Stitch\WebUI\bin\NPOI.pdb
+F:\Stitch\WebUI\bin\NPOI.xml
+F:\Stitch\WebUI\bin\NPOI.OOXML.pdb
+F:\Stitch\WebUI\bin\NPOI.OOXML.xml
+F:\Stitch\WebUI\bin\NPOI.OpenXml4Net.pdb
+F:\Stitch\WebUI\bin\NPOI.OpenXml4Net.xml
+F:\Stitch\WebUI\bin\NPOI.OpenXmlFormats.pdb
+F:\Stitch_New\WebUI\bin\roslyn\csc.exe
+F:\Stitch_New\WebUI\bin\roslyn\csc.exe.config
+F:\Stitch_New\WebUI\bin\roslyn\csc.rsp
+F:\Stitch_New\WebUI\bin\roslyn\csi.exe
+F:\Stitch_New\WebUI\bin\roslyn\csi.rsp
+F:\Stitch_New\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Stitch_New\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Stitch_New\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Stitch_New\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Stitch_New\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Stitch_New\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Stitch_New\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Stitch_New\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Stitch_New\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Stitch_New\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Stitch_New\WebUI\bin\roslyn\System.AppContext.dll
+F:\Stitch_New\WebUI\bin\roslyn\System.Collections.Immutable.dll
+F:\Stitch_New\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Stitch_New\WebUI\bin\roslyn\System.IO.FileSystem.dll
+F:\Stitch_New\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Stitch_New\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Stitch_New\WebUI\bin\roslyn\vbc.exe
+F:\Stitch_New\WebUI\bin\roslyn\vbc.exe.config
+F:\Stitch_New\WebUI\bin\roslyn\vbc.rsp
+F:\Stitch_New\WebUI\bin\roslyn\VBCSCompiler.exe
+F:\Stitch_New\WebUI\bin\roslyn\VBCSCompiler.exe.config
+F:\Stitch_New\WebUI\bin\Inv.WebUI.dll.config
+F:\Stitch_New\WebUI\bin\Inv.WebUI.dll
+F:\Stitch_New\WebUI\bin\Inv.WebUI.pdb
+F:\Stitch_New\WebUI\bin\Antlr3.Runtime.dll
+F:\Stitch_New\WebUI\bin\BouncyCastle.Crypto.dll
+F:\Stitch_New\WebUI\bin\EntityFramework.dll
+F:\Stitch_New\WebUI\bin\EntityFramework.SqlServer.dll
+F:\Stitch_New\WebUI\bin\ICSharpCode.SharpZipLib.dll
+F:\Stitch_New\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Stitch_New\WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\Stitch_New\WebUI\bin\Newtonsoft.Json.dll
+F:\Stitch_New\WebUI\bin\NPOI.dll
+F:\Stitch_New\WebUI\bin\NPOI.OOXML.dll
+F:\Stitch_New\WebUI\bin\NPOI.OpenXml4Net.dll
+F:\Stitch_New\WebUI\bin\NPOI.OpenXmlFormats.dll
+F:\Stitch_New\WebUI\bin\QRCoder.dll
+F:\Stitch_New\WebUI\bin\Spire.Barcode.dll
+F:\Stitch_New\WebUI\bin\Spire.Common.dll
+F:\Stitch_New\WebUI\bin\Spire.DataExport.dll
+F:\Stitch_New\WebUI\bin\Spire.DataExport.ResourceMgr.dll
+F:\Stitch_New\WebUI\bin\Spire.Doc.dll
+F:\Stitch_New\WebUI\bin\Spire.DocViewer.Forms.dll
+F:\Stitch_New\WebUI\bin\Spire.License.dll
+F:\Stitch_New\WebUI\bin\Spire.Pdf.dll
+F:\Stitch_New\WebUI\bin\Spire.PdfViewer.Forms.dll
+F:\Stitch_New\WebUI\bin\Spire.Presentation.dll
+F:\Stitch_New\WebUI\bin\Spire.XLS.dll
+F:\Stitch_New\WebUI\bin\System.Web.Helpers.dll
+F:\Stitch_New\WebUI\bin\System.Web.Mvc.dll
+F:\Stitch_New\WebUI\bin\System.Web.Optimization.dll
+F:\Stitch_New\WebUI\bin\System.Web.Razor.dll
+F:\Stitch_New\WebUI\bin\System.Web.WebPages.Deployment.dll
+F:\Stitch_New\WebUI\bin\System.Web.WebPages.dll
+F:\Stitch_New\WebUI\bin\System.Web.WebPages.Razor.dll
+F:\Stitch_New\WebUI\bin\WebGrease.dll
+F:\Stitch_New\WebUI\bin\Microsoft.mshtml.dll
+F:\Stitch_New\WebUI\bin\Antlr3.Runtime.pdb
+F:\Stitch_New\WebUI\bin\BouncyCastle.Crypto.xml
+F:\Stitch_New\WebUI\bin\EntityFramework.xml
+F:\Stitch_New\WebUI\bin\EntityFramework.SqlServer.xml
+F:\Stitch_New\WebUI\bin\ICSharpCode.SharpZipLib.pdb
+F:\Stitch_New\WebUI\bin\ICSharpCode.SharpZipLib.xml
+F:\Stitch_New\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Stitch_New\WebUI\bin\Newtonsoft.Json.xml
+F:\Stitch_New\WebUI\bin\NPOI.pdb
+F:\Stitch_New\WebUI\bin\NPOI.xml
+F:\Stitch_New\WebUI\bin\NPOI.OOXML.pdb
+F:\Stitch_New\WebUI\bin\NPOI.OOXML.xml
+F:\Stitch_New\WebUI\bin\NPOI.OpenXml4Net.pdb
+F:\Stitch_New\WebUI\bin\NPOI.OpenXml4Net.xml
+F:\Stitch_New\WebUI\bin\NPOI.OpenXmlFormats.pdb
+F:\Stitch_New\WebUI\bin\Spire.Barcode.xml
+F:\Stitch_New\WebUI\bin\Spire.Common.xml
+F:\Stitch_New\WebUI\bin\Spire.DataExport.xml
+F:\Stitch_New\WebUI\bin\Spire.DataExport.ResourceMgr.xml
+F:\Stitch_New\WebUI\bin\Spire.Doc.xml
+F:\Stitch_New\WebUI\bin\Spire.DocViewer.Forms.xml
+F:\Stitch_New\WebUI\bin\Spire.License.xml
+F:\Stitch_New\WebUI\bin\Spire.Pdf.xml
+F:\Stitch_New\WebUI\bin\Spire.PdfViewer.Forms.xml
+F:\Stitch_New\WebUI\bin\Spire.Presentation.xml
+F:\Stitch_New\WebUI\bin\Spire.XLS.xml
+F:\Stitch_New\WebUI\bin\System.Web.Helpers.xml
+F:\Stitch_New\WebUI\bin\System.Web.Mvc.xml
+F:\Stitch_New\WebUI\bin\System.Web.Optimization.xml
+F:\Stitch_New\WebUI\bin\System.Web.Razor.xml
+F:\Stitch_New\WebUI\bin\System.Web.WebPages.xml
+F:\Stitch_New\WebUI\bin\System.Web.WebPages.Deployment.xml
+F:\Stitch_New\WebUI\bin\System.Web.WebPages.Razor.xml
+F:\Stitch_New\WebUI\obj\Debug\Inv.WebUI.csproj.AssemblyReference.cache
+F:\Stitch_New\WebUI\obj\Debug\Inv.WebUI.csproj.CoreCompileInputs.cache
+F:\Stitch_New\WebUI\obj\Debug\Inv.WebUI.csproj.CopyComplete
+F:\Stitch_New\WebUI\obj\Debug\Inv.WebUI.dll
+F:\Stitch_New\WebUI\obj\Debug\Inv.WebUI.pdb
