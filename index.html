@@ -1,50 +1,53 @@
-﻿
-@{
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Eslam</title>
 
-    Layout = "~/Views/Shared/Layout.cshtml";
-}
+    <style>
 
-<style>
+        .des {
+            width: 22% !important;
+        }
 
-    .des {
-        width: 22% !important;
-    }
+        .uom {
+            width: 11% !important;
+        }
 
-    .uom {
-        width: 11% !important;
-    }
+        .Zero {
+            width: 0% !important;
+        }
 
-    .Zero {
-        width: 0% !important;
-    }
+        .Price {
+            width: 9% !important;
+        }
 
-    .Price {
-        width: 9% !important;
-    }
+        .odd {
+            background-color: lightcoral;
+            font-weight: bold;
+            font-size: 16px;
+            color: black;
+        }
 
-    .odd {
-        background-color: lightcoral;
-        font-weight: bold;
-        font-size: 16px;
-        color: black;
-    }
-    .even {
-        background-color: #fff2ce;
-        font-weight: bold;
-        font-size: 16px;
-        color: black;
-    }
-    tr {
-        background-color: #b9b9b9;
-        color: black;
-    }
+        .even {
+            background-color: #fff2ce;
+            font-weight: bold;
+            font-size: 16px;
+            color: black;
+        }
 
-    .px-5 {
-        padding-left: 3rem !important;
-        padding-right: 3rem !important;
-    }
+        tr {
+            background-color: #b9b9b9;
+            color: black;
+        }
 
-</style>
+        .px-5 {
+            padding-left: 3rem !important;
+            padding-right: 3rem !important;
+        }
+    </style>
+</head>
+
+
 <body class="materialdesign">
     <div class="content-inner-all">
         <div class="sparkline8-graph col-xs-12" style="border-radius: 50px;">
@@ -58,10 +61,11 @@
                 <label>Server</label>
             </div>
             <div class="col-xs-12 col-lg-3 col-sm-12 ">
-                @*<input  type="text"  />*@
+                @*<input type="text" />*@
                 <input id="Server" type="text" class="form-control " value="172.107.180.168" name="Server" list="ServerName">
                 <datalist id="ServerName">
-                    @*<option value="SQL5070.site4now.net">*@
+                    @*
+                    <option value="SQL5070.site4now.net">*@
                     <option value="172.107.180.168">
                 </datalist>
             </div>
@@ -72,7 +76,8 @@
             <div class="col-xs-12 col-lg-3 col-sm-12">
                 <input id="User" type="text" class="form-control " value="SYSUSER" name="Server" list="UserName">
                 <datalist id="UserName">
-                    @*<option value="db_a7d7aa_newtax_admin">*@
+                    @*
+                    <option value="db_a7d7aa_newtax_admin">*@
                     <option value="SYSUSER">
                 </datalist>
             </div>
@@ -84,7 +89,8 @@
                 @*<input id="Password" type="password" class="form-control " value="619619Ss619619" />*@
                 <input id="Password" type="text" class="form-control " value="SYSUSER2020" name="Password" list="PasswordName">
                 <datalist id="PasswordName">
-                    @*<option value="619619Ss619619">*@
+                    @*
+                    <option value="619619Ss619619">*@
                     <option value="SYSUSER2020">
                 </datalist>
             </div>
@@ -188,13 +194,15 @@
 
 
     </div>
-
-
-
+     
+    <script src="~\ClientApp\App.js"></script>
+    <script src="~\ClientApp\SystemTools.js"></script>
+    <script src="~\ClientApp\Shared.js"></script>
+    <script src="~\ClientApp\DataTable.js"></script>
+    <script src="~\ClientApp\Quotation/TestGrad.js"></script>
 
 </body>
-<script src="~/ClientApp/App.js"></script>
-<script src="~/ClientApp/SystemTools.js"></script>
-<script src="~/ClientApp/Shared.js"></script>
-<script src="~/ClientApp/DataTable.js"></script>
-<script src="~/ClientApp/Quotation/TestGrad.js"></script>
+
+
+
+</html>
